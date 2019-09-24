@@ -9,6 +9,8 @@
 # History
 # Created 02/02/2016
 
+# Changes 09/24/2019
+
 import datetime
 import urllib.request
 import base64
